@@ -1,52 +1,54 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome books: with ES6
 
-> Books List.
+# Awesome-Book: with ES6
+
+> Description of the Project
+ 
+ This is a simple web application where users can add and also remove a list of books including their author, built with HTML, CSS and JavaScript.
+  
+![Awesome Book 11-7-2022 2-06-26 PM](https://user-images.githubusercontent.com/96092850/200319526-7f63d74f-0b12-47d0-93aa-2c446d33cc72.png)
+
+![Awesome Book 11-7-2022 2-06-05 PM](https://user-images.githubusercontent.com/96092850/200319544-65ba1645-b639-45ca-8dd5-8c5b1fe53864.png)
+
+ [Click me for video Descriptio and Preview](https://www.loom.com/share/701f674fa6944e5e80b422f711a6f954)
 
 ## Built With
 
-- HTML
-- CSS
-- JS
+- Major languages: Html, Css and Javascript
+- Technologies used: linter, lightHouse, Weblint.
+
+## Live Demo here
+
+[Live Demo Link](https://ademola-coding.github.io/Big-Bang-concert-Website/)
 
 ## Getting Started
 
-To get a local copy up and running it, follow these simple steps.
+you can have a copy of this project by cloning this repo to your local machine
+`https://github.com/Ademola-coding/Awesome-Book-with-ES6
+.git`
+
+## procedure
+- open git bash
+- git mkdir Concert-website
+- cd BConcert-website
+- git clone `https://github.com/Ademola-coding/Awesome-Book-with-ES6
+.git`
+- code .
+ 
+with the steps above, you can have a copy of the project 
 
 ### Prerequisites
 
-- Internet Service.
-- Basic Knowledge about Git and Github.
-- VSCode.
-
-### Setup
-
-1. Create an empty folder in your computer to store the clone.
-
-2. Copy the following link and paste it into your VSCode or your terminal:
-
-> https://github.com/Ademola-coding/Sneak-Peek-Awesome-books.git
-
-3. Store it in the file you created before.
-
-4. Create a new branch for working and make changes to adapt it according to your requirements.
-
-### Install
-
-To install linters please open the ***.github/workflows*** then get into ***linters.yml*** and check the instructions and commands.
-
-### Usage
-
-For educational purpose only, use it as a guideline.
+- **Web Browser**
 
 ## Author
 
 👤 **Ademola Owoeye**
 
-- GitHub: [@Ademola](https://github.com/Ademola-coding)
-
-
+- GitHub: [@githubhandle](https://github.com/Ademola-coding)
+- Twitter: [@twitterhandle](https://twitter.com/steady1700)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:27973521/)
 
 ## 🤝 Contributing
 
@@ -57,3 +59,11 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+Wireframe from Microverse
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
