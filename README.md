@@ -42,13 +42,17 @@ with the steps above, you can have a copy of the project
 
 - **Web Browser**
 
-## Author
+## Authors
 
 👤 **Ademola Owoeye**
 
 - GitHub: [@githubhandle](https://github.com/Ademola-coding)
 - Twitter: [@twitterhandle](https://twitter.com/steady1700)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:27973521/)
+
+👤 **Rodney Chakwesha**
+
+- GitHub: [@githubhandle](https://github.com/RodChak)
 
 ## 🤝 Contributing
 
