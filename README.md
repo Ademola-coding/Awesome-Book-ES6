@@ -20,7 +20,7 @@
 
 ## Live Demo here
 
-[Live Demo Link](https://ademola-coding.github.io/Big-Bang-concert-Website/)
+[Live Demo Link](https://ademola-coding.github.io/Awesome-Book-with-ES6/)
 
 ## Getting Started
 
